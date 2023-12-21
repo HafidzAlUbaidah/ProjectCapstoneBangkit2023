@@ -1,3 +1,5 @@
+# Kritik Seth, "Fruits and Vegetables Image Recognition Dataset," Kaggle 2020 [https://www.kaggle.com/kritikseth/fruit-and-vegetable-image-recognition]
+# Project capstone bangkit 2023
 import numpy as np
 import tensorflow as tf
 import tensorflow.keras.layers
